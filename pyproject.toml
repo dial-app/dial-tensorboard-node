@@ -14,7 +14,7 @@ homepage = "https://github.com/dial-app/dial-tensorboard-nodes"
 keywords = ["deep-learning", "dial-app"]
 
 [tool.poetry.dependencies]
-python = ">=3.6,<3.8"
+python = ">=3.6.0,<=3.8.2"
 
 dial-core = { path = "/home/david/dial-core" }
 dial-gui = { path = "/home/david/dial-gui" }
